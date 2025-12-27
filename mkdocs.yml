@@ -1,0 +1,52 @@
+site_name: Olympic Roleplay
+
+theme:
+  name: material
+  logo: assets/orplogo.png
+  favicon: assets/orplogo2.png
+  language: nl
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Donkere modus
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/toggle-switch
+        name: Lichte modus
+
+plugins:
+  - search
+
+markdown_extensions:
+  - toc:
+      slugify: !!python/name:pymdownx.slugs.uslugify
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+extra_css:
+  - styles/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/5CnzPFU42z
+
+copyright: |
+  &copy; 2025 <a href="https://github.com/james-willett" target="_blank" rel="noopener">Olympic Roleplay</a>

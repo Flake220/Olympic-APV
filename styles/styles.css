@@ -1,0 +1,26 @@
+:root {
+  --md-primary-fg-color: #b49c3b;
+  --md-primary-fg-color--light: #c7b25a;
+  --md-primary-fg-color--dark: #8f7c2f;
+
+  --md-accent-fg-color: #b49c3b;
+}
+
+/* Strafmaat tabellen */
+.md-typeset table:not([class]) {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.md-typeset table:not([class]) th {
+  text-align: center;
+  font-weight: 600;
+}
+
+.md-typeset table:not([class]) td {
+  vertical-align: middle;
+}
+
+.md-typeset table:not([class]) td:first-child {
+  font-weight: 600;
+}
