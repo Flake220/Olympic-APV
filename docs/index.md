@@ -26,6 +26,6 @@ Onderstaande Discord servers zijn officieel verbonden aan Olympic Roleplay:
 |---|---|---|
 | Olympic Roleplay | Officiële Discord server van Olympic Roleplay | [Klik hier](https://discord.gg/olympicroleplay) |
 | Olympic Support | Alle support-gerelateerde zaken worden hier behandeld | Komt Binnenkort! |
-| Olympic Bedrijven | Officiële particuliere bedrijven binnen Olympic | [Klik hier](https://discord.gg/5CnzPFU42z) |
-| Olympic Onderwereld | Officiële onderwereld van Olympic Roleplay | [Klik hier](https://discord.gg/5CnzPFU42z) |
+| Olympic Bedrijven | Officiële particuliere bedrijven binnen Olympic | [Klik hier](https://discord.gg/W2sgeBrXBS) |
+| Olympic Onderwereld | Officiële onderwereld van Olympic Roleplay | [Klik hier](https://discord.gg/QYkstFXm6C) |
 | Olympic Overheid | Verzamelplaats voor alle overheidsorganisaties | [Klik hier](https://discord.gg/5CnzPFU42z) |
