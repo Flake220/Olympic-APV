@@ -18,7 +18,7 @@ Let op: Wanneer jij meerdere malen hetzelfde artikel overtreed zal er een hogere
 
 Administrator of hoger mag passende maatregelen treffen om het belang van meerdere burgers te behartigen.
 
-## **Artikel 1 - Cheats**
+## **Art. 1 - Cheats**
 
 Het is verboden om op welke manier dan ook software te modificeren om zo een voordeel te behalen in-game.
 
@@ -34,9 +34,9 @@ Enkele voorbeelden van deze software zijn:
 - Crosshairs
 - Better Discord
 
-**^^Bij overtreding: straf volgens de 9e categorie (een permanente ban) en vaak geen unban mogelijk.^^**
+**^^Bij overtreding: straf volgens de 8e categorie (een permanente ban) en vaak geen unban mogelijk.^^**
 
-## **Artikel 2 - Bug-abuse / exploits**
+## **Art. 2 - Bug-abuse / exploits**
 
 Het gebruik maken van bugs/exploits is ten strengste verboden. Meld de fouten in een ticket in plaats van dat je er zelf misbruik van maakt.
 
@@ -48,29 +48,29 @@ Enkele voorbeelden van bug-abuse / exploits zijn:
 - Handelingen uitvoeren terwijl je dood bent
 - Reloggen om weer met volledige levens de stad in te komen.
 
-**^^Bij overtreding zal een stafflid naarmate de situatie bepalen wat je straf word t/m de straf volgens de 9e categorie (een permanente ban).^^**
+**^^Bij overtreding zal een stafflid naarmate de situatie bepalen wat je straf word t/m de straf volgens de 8e categorie (een permanente ban).^^**
 
-## **Artikel 3 - Meerdere accounts/karakters:**
+## **Art. 3 - Meerdere accounts/karakters:**
 
 Om misbruik te voorkomen is het niet toegestaan om meerdere Steam- of Discord accounts te gebruiken, tenzij hier toestemming voor is gegeven door het staff-team.
 
-**^^Bij overtreding: straf volgens de 9e categorie (een permanente ban).^^**
+**^^Bij overtreding: straf volgens de 8e categorie (een permanente ban).^^**
 
-## **Artikel 4 - Real life trading**
+## **Art. 4 - Real life trading**
 
 Het is in geen enkele situatie toegestaan om in-game items/geld te (ver)kopen of ruilen tegen echt geld of spullen buiten de stad. Real life trading aanbieden of vragen valt ook onder deze categorie.
 
 Het lid zijn van een real life trading discord is niet toegestaan, je zal een ban permanente ontvangen ookal heb je niks gekocht etc.
 
-**^^Bij overtreding: straf volgens de 9e categorie (een permanente ban).^^**
+**^^Bij overtreding: straf volgens de 8e categorie (een permanente ban).^^**
 
-## **Artikel 5 - Het weggeven van goederen bij het stoppen**
+## **Art. 5 - Het weggeven van goederen bij het stoppen**
 
 Het weggeven en aannemen van goederen van een speler die stopt is niet toegestaan. Dit zal worden bestraft met een permanente ban.
 
-**^^Bij overtreding: straf volgens de 9e categorie (een permanente ban).^^**
+**^^Bij overtreding: straf volgens de 8e categorie (een permanente ban).^^**
 
-## **Artikel 6 - VDM (Vehicle Deathmatch)**
+## **Art. 6 - VDM (Vehicle Deathmatch)**
 
 Onder VDM wordt verstaan: iemand opzettelijk aanrijden met de intentie je voertuig als wapen te gebruiken om hiermee iemand van het leven te beroven.
 
@@ -80,9 +80,9 @@ Enkele voorbeelden van VDM zijn:
 - Het aanrijden van een burger, wat niet resulteert in de dood zonder enige vorm van roleplay.
 - Het opzettelijk doodrijden van een burger.
 
-**^^Bij overtreding zal een stafflid naarmate de situatie bepalen wat je straf word t/m straf volgens de 9e categorie (een permanente ban).^^**
+**^^Bij overtreding zal een stafflid naarmate de situatie bepalen wat je straf word t/m straf volgens de 8e categorie (een permanente ban).^^**
 
-## **Artikel 7 - RDM (Random Death Match)**
+## **Art. 7 - RDM (Random Death Match)**
 
 Onder RDM wordt verstaan: Het opzettelijk ontnemen van andermans leven zonder geldige reden en/of zonder voorafgaande roleplay gebeurtenissen.
 
@@ -97,13 +97,13 @@ Let op: provocerend gedrag (op social media) is op eigen verantwoordelijkheid en
 
 **^^Bij overtreding zal een stafflid naarmate de situatie bepalen wat je straf wordt t/m straf volgens de 6e categorie (een permanente ban deze zullen enkel gegeven worden door hogerop) Bij tweede overtreding zal het gebruikte wapen in dat scenario ingenomen worden.^^**
 
-## **Artikel 8 - Stream Sniping**
+## **Art. 8 - Stream Sniping**
 
 Wanneer iemand informatie verkrijgt vanuit een stream en dit vervolgens gebruikt om de streamer hiermee op te zoeken valt dit onder stream-sniping. De informatie die je hieruit haalt kan ook vallen onder het artikel “Metagaming”.
 
 **^^Bij overtreding: Straf volgens de 5e categorie (ban van 1 week).^^**
 
-## **Artikel 9 - FailRP**
+## **Art. 9 - FailRP**
 
 Onder FailRP wordt verstaan: Het opzettelijk verpesten of slecht afmaken van, niet meewerken aan een scenario..
 
@@ -120,7 +120,7 @@ Onder FailRP wordt verstaan: Het opzettelijk verpesten of slecht afmaken van, ni
 - Het niet meewerken na een behandeling van ambulance leden.
 - Een blokkade mag enkel worden uitgevoerd, mits er geen inzittende in het voertuig zitten.
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
 **Categorie 2**
 
@@ -135,7 +135,7 @@ Onder FailRP wordt verstaan: Het opzettelijk verpesten of slecht afmaken van, ni
 
 **^^Bij overtreding: Straf volgens de 4e categorie (ban van 3 dagen).^^**
 
-## **Artikel 10 - NVOL (No Value of Life)**
+## **Art. 10 - NVOL (No Value of Life)**
 
 Onder NVOL wordt verstaan: Hij/zij die geen waarde hecht aan het leven van zijn karakter.
 
@@ -166,7 +166,7 @@ Terugschieten / steken op een persoon of voertuig die een gericht wapen op je he
 
 **^^Bij overtreding: Straf volgens de 6e categorie (ban van 2 weken).^^**
 
-## **Artikel 11 - New Life Rule**
+## **Art. 11 - New Life Rule**
 
 Onder New Life Rule wordt verstaan: indien personage is overleden, dan is het verplicht om de roleplay voor de dood te vergeten.
 
@@ -176,9 +176,9 @@ Enkele voorbeelden van informatie die vergeten moet worden zijn bijvoorbeeld:
 - Wie je van het leven heeft ontnomen;
 - Situatie en aanleiding waarom iets heeft plaatsgevonden;
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
-## **Artikel 12 - Overvallen**
+## **Art. 12 - Overvallen**
 
 Gegijzelde mensen mogen ten alle tijden geen vriend of bekende zijn. Er mag geen overval gestart worden binnen een uur voor een server herstart.
 
@@ -190,7 +190,7 @@ Om een overval te starten dienen er een bepaald aantal agenten aanwezig te zijn:
 - Om een kleine bank overval te starten dienen er 4 agenten in dienst te zijn
 - Om een grote overval te starten (denk aan een grote bank, Humane Labs en grote scenario's als Politie HB) dienen er 6 agenten in dienst te zijn.
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
 Het is niet toegestaan nadat je succesvol een overval heb gepleegd om als crimineel binnen 5 minuten in een achtervolging al een setup te zetten.
 
@@ -200,7 +200,7 @@ Op het moment dat Politie aanwezig is bij een overval, mag je niet meer de overv
 
 **^^Bij overtreding: Straf volgens de 4e categorie (ban van 3 dagen).^^**
 
-## **Artikel 13 - Powergaming**
+## **Art. 13 - Powergaming**
 
 Onder Powergaming wordt verstaan: Het opzettelijk een oneerlijk voordeel naar zich toetrekken.
 
@@ -221,7 +221,7 @@ Enkele voorbeelden van Powergaming zijn:
 - Communcatie afpakken via /me is niet toegestaan, je dient de communicatie-items af te pakken. (/me pakt Noodknop is nog steeds toegestaan.)
 - Het omhoog doen van je handen zodat het lijkt dat je je overgeeft en vervolgens toch gaat schieten. Handen omhoog is dus uitgeschakeld.
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
 **Categorie 2**
 
@@ -255,7 +255,7 @@ Onder combat stashen wordt verstaan:
 
 **^^Bij overtreding: Straf volgens de 5e categorie (ban van 1 week).^^**
 
-## **Artikel 14 - Toxic gedrag**
+## **Art. 14 - Toxic gedrag**
 
 Toxic gedrag is niet toegestaan.
 Staff mag bepalen / een inschatting maken, wat Toxic gedrag is en wat niet.
@@ -263,7 +263,7 @@ Geeft iemand aan dat hij/zij last van jou heeft, dan dien je je gedrag aan te pa
 
 **^^Bij overtreding: Straf volgens de 5e categorie (ban van 1 week).^^**
 
-## **Artikel 15 - GTA Drivestyle**
+## **Art. 15 - GTA Drivestyle**
 
 Onder GTA Drivestyle wordt verstaan: Het onrealistisch rijden in een voertuig zoals je dat in werkelijkheid niet zal doen.
 
@@ -276,7 +276,7 @@ Categorie 1**
 - Met boten opzettelijk het land opvaren.
 - Het rijden door water dat ter hoogte van het raam komt.
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
 **Categorie 2**
 
@@ -300,7 +300,7 @@ Categorie 1**
 
 **^^Bij overtreding: Straf volgens de 3e categorie (ban van 2 dagen).^^**
 
-## **Artikel 16 - Geen intentie tot roleplay.**
+## **Art. 16 - Geen intentie tot roleplay.**
 
 Onder geen intentie tot roleplay wordt verstaan:
 
@@ -308,9 +308,9 @@ Onder geen intentie tot roleplay wordt verstaan:
 - Massa VDM en RDM
 - Earrapen: Zie artikel 24
 
-**^^Bij overtreding: straf volgens de 9e categorie (een permanente ban).^^**
+**^^Bij overtreding: straf volgens de 8e categorie (een permanente ban).^^**
 
-## **Artikel 17 - Metagaming**
+## **Art. 17 - Metagaming**
 
 Onder Metagaming wordt verstaan: Het verkrijgen van informatie die je buiten de server verkrijgt en deze informatie vervolgens in-game gebruikt.
 
@@ -323,7 +323,7 @@ Enkele voorbeelden van metagaming zijn:
 
 **^^Bij overtreding: Straf volgens de 3e categorie (ban van 2 dagen).^^**
 
-## **Artikel 18 - Combatloggen**
+## **Art. 18 - Combatloggen**
 
 Onder Combatloggen wordt verstaan: Tijdens een roleplay scenario de game verlaten zonder geldige reden.
 
@@ -331,7 +331,7 @@ Indien je door een bepaalde omstandigheid uit de stad wordt gegooid, heb je vijf
 
 **^^Bij overtreding: Straf volgens de 5e categorie (ban van 1 week).^^**
 
-## **Artikel 19 - Oplichten**
+## **Art. 19 - Oplichten**
 
 Met betrekking tot de volgende onderdelen is oplichten verboden en resulteert in een straf:
 
@@ -356,7 +356,7 @@ Enkele voorbeelden hiervan zijn:
 - Het oplichten van zwartgeld.
 - Het oplichten van onderwereld gerelateerde spullen.
 
-## **Artikel 20 - Burgers overvallen**
+## **Art. 20 - Burgers overvallen**
 
 Een van de manieren voor criminelen om geld te verdienen is het overvallen van burgers.
 
@@ -398,7 +398,7 @@ Oplichting of andere trucjes, om iemand zijn voertuig af te nemen zijn verboden.
 
 **^^Bij overtreding: Straf volgens de 5e categorie (ban van 1 week).^^**
 
-## **Artikel 21 - Ongepast taalgebruik**
+## **Art. 21 - Ongepast taalgebruik**
 
 Hij/zij die ongepast taalgebruik gebruikt, zal worden gestraft met een ban.
 
@@ -425,19 +425,19 @@ Enkele voorbeelden van ongepast taalgebruik zijn:
 
 **^^Bij overtreding: Straf volgens de 7e categorie (ban van 1 maand).^^**
 
-## **Artikel 22 - Taal**
+## **Art. 22 - Taal**
 
 Er wordt van alle inwoners verwacht dat zij de Nederlandse of Engelse taal beheersen. Andere talen mogen niet gebruikt worden op een provocerende en/of beledigende manier.
 
-**^^Bij overtreding: Straf volgens de 1e categorie ( Ban van 8 uur.).^^**
+**^^Bij overtreding: Straf volgens de 1e categorie ( Ban van 1 dag.).^^**
 
-## **Artikel 23 - Gebruik van boeien**
+## **Art. 23 - Gebruik van boeien**
 
 Wanneer iemand geboeid is, kan hij/zij niet meer via de telefoon of portofoon communiceren met andere burgers. Als overheidsmedewerker kan je ook geen noodknop meer gebruiken. 
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
-## **Artikel 24 - Microfoon**
+## **Art. 24 - Microfoon**
 
 Het is voor een ieder verplicht om een werkend en goed verstaanbare microfoon te bezitten. Misbruik maken van je microfoon is verboden.
 
@@ -446,15 +446,15 @@ Enkele voorbeelden van het misbruik van je microfoon zijn:
 - Earrapen
 - Soundpads
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
-## **Artikel 25 - Stemvervormers**
+## **Art. 25 - Stemvervormers**
 
 Het gebruiken van stemvervormers is toegestaan mits hier voldoende aanleiding voor is. Zorg hierbij dat je enkel stemvervormers gebruikt als er genoeg redenen zijn en zorg dat het menselijk blijft klinken.
 
-**^^Bij overtreding: Straf volgens de 1e categorie (Ban van 2 uur).^^**
+**^^Bij overtreding: Straf volgens de 1e categorie (Een waarschuwing).^^**
 
-## **Artikel 26 - Karakter breken (OOC)**
+## **Art. 26 - Karakter breken (OOC)**
 
 Onder karakter breken OOC wordt verstaan: Termen gebruiken die je niet in je karakter kunt gebruiken, dus out of character.
 
@@ -468,15 +468,15 @@ Voorbeelden van OOC termen zijn:
 - Desync.
 Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken met als reden dat dit scenario verstorend kan werken. Maak na de betreffende scenario een report aan of open een ticket.
 
-**^^Bij overtreding: Straf volgens de 1e categorie (Ban van 2 uur).^^**
+**^^Bij overtreding: Straf volgens de 1e categorie (Een waarschuwing).^^**
 
-## **Artikel 27 - Report spam**
+## **Art. 27 - Report spam**
 
 Wanneer een burger hulp nodig heeft in de stad, dan kan er gebruik gemaakt worden van “/report (uitleg)”. Het aanmaken van slechts 1 report per 4 minuten is toegestaan.
 
-**^^Bij overtreding: Straf volgens de 1e categorie (Ban van 2 uur).^^**
+**^^Bij overtreding: Straf volgens de 1e categorie (Een waarschuwing).^^**
 
-## **Artikel 28 - Appartementen**
+## **Art. 28 - Appartementen**
 
 Criminele activiteiten in een appartement zijn verboden. Denk hieraan het oplichten van mensen, opkopen en verkopen van drugs, vermoorden of ontvoeren van een persoon, en het verkopen en/of inkopen van wapens.
 
@@ -486,7 +486,7 @@ Het uitnodigen van iemand tot je Appartement is op eigen risico, en zal nooit to
 
 **^^Bij overtreding: Straf volgens de 3e categorie (ban van 2 dagen).^^**
 
-## **Artikel 29 - Achtervolgingen**
+## **Art. 29 - Achtervolgingen**
 
 Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren:
 
@@ -497,15 +497,15 @@ Snel je kleding te veranderen;
 
 **^^Bij overtreding: Straf volgens de 3e categorie (ban van 2 dagen)^^**
 
-## **Artikel 30 - Ontsnappen cellencomplex**
+## **Art. 30 - Ontsnappen cellencomplex**
 
 Het is toegestaan om te ontsnappen uit het cellencomplex. Hierbij is het wel noodzakelijk dat er een geldig roleplay scenario uitgevoerd wordt.
 
 Het is niet toegestaan om een uit-dienst-politiemedewerker te ontvoeren met als doel deze in dienst te melden om zodoende iemand uit de gevangenis te breken.
 
-**^^Bij overtreding: Straf volgens de 1e categorie (Ban van 2 uur)^^**
+**^^Bij overtreding: Straf volgens de 1e categorie (Een waarschuwing)^^**
 
-## **Artikel 31 - Campen van locaties**
+## **Art. 31 - Campen van locaties**
 
 - Het campen van illegale / criminele locaties is toegestaan 
 - Wanneer je iemand hebt overvallen moet je deze 30 minuten met rust laten.
@@ -513,19 +513,19 @@ Het is niet toegestaan om een uit-dienst-politiemedewerker te ontvoeren met als 
 
 **^^Bij overtreding: Straf volgens de 4e categorie (ban van 3 dagen).^^**
 
-## **Artikel 32 - Standaard outfit**
+## **Art. 32 - Standaard outfit**
 
 Het dragen van de standaard outfit is niet toegestaan met als reden om te voorkomen dat iedereen hetzelfde eruit ziet. De standaard outfit is de outfit die je draagt als je de eerste keer de stad binnenkomt.
 
-**^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur)^^**
+**^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag)^^**
 
-## **Artikel 33 - Impersonatie van overheidsmedewerkers**
+## **Art. 33 - Impersonatie van overheidsmedewerkers**
 
 Het is verboden om jezelf te kleden als iemand van een overheidsbaan en dit beroep na te doen. Hetzelfde geldt voor staff-kleding.
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
-## **Artikel 34 - Corruptie**
+## **Art. 34 - Corruptie**
 
 **Categorie 1:**
 
@@ -546,17 +546,17 @@ Het verduisteren van items of geld als politie/kmar. Zeer gevoelige informatie d
 - MEOS informatie doorspelen.
 - Documenten/Informatie doorspelen.
 
-**^^Bij overtreding: Straf volgens de 9e categorie (Permanente ban).^^**
+**^^Bij overtreding: Straf volgens de 8e categorie (Permanente ban).^^**
 
-## **Artikel 35 - Staff**
+## **Art. 35 - Staff**
 
 Heb ten alle tijden respect voor de staffleden. Ook als je het ergens niet mee eens bent, heeft het stafflid altijd het laatste woord. Het verstoren van staffzaken is ook niet toegestaan.
 
 Onnodig staffzaken en reports aanmaken/beginnen is niet toegestaan.
 
-**^^Bij overtreding: Straf volgens de 1e categorie (ban van 2 uur).^^**
+**^^Bij overtreding: Straf volgens de 1e categorie (Een waarschuwing).^^**
 
-## **Artikel 35A - Staff**
+## **Art. 35A - Staff**
 
 - Het liegen tegen staff is ten alle tijden niet toegestaan.
 - Het bedreigen/beledigen van staffleden is ten alle tijden niet toegestaan
@@ -564,15 +564,15 @@ Onnodig staffzaken en reports aanmaken/beginnen is niet toegestaan.
 
 **^^Bij overtreding: straf volgens de 8e categorie (een permanente ban).^^**
 
-## **Artikel 36 - Copbaiten**
+## **Art. 36 - Copbaiten**
 
 Onder Copbaiten wordt verstaan: Het opzettelijk opzoeken, irriteren of uit lokken van politie en/of andere overheidsinstanties.
 
 Als je niet bij een roleplay scenario hoort, dan heb je ook niks te zoeken bij aanhoudingen, overvallen etc.
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
-## **Artikel 37 - Verstoring RP**
+## **Art. 37 - Verstoring RP**
 
 Het is verboden om bewust roleplay van andere spelers te verstoren. Hierbij kun je bijvoorbeeld denken aan:
 
@@ -580,9 +580,9 @@ Het is verboden om bewust roleplay van andere spelers te verstoren. Hierbij kun 
 - Role Play scenarios verstoren.
 - Het mengen als derde partij in een achtervolging waarbij Politie/Douane is betrokken is niet toegestaan.
 
-**^^Bij overtreding: Straf volgens de 2e categorie (Ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (Ban van 1 dag).^^**
 
-## **Artikel 38 - Stemherkenning**
+## **Art. 38 - Stemherkenning**
 
 Het is op verschillende manieren mogelijk om een persoon te herkennen aan zijn/haar stem.
 
@@ -592,15 +592,15 @@ Enkele voorbeelden hiervan zijn:
 - **Anders praten dan normaal:** Als je hoort dat de persoon zijn/haar best doet om anders te praten dan normaal, dan mag de stem niet herkend worden.
 - **Het gebruiken van externe software:** Het is toegestaan om gebruik te maken van externe software om je stem te vervormen voor criminele activiteiten. Let op, dit dient normaal te blijven. Het gebruiken van robotstemmen en/of baby stemmen is derhalve verboden.
 
-**^^Bij overtreding: Straf volgens de 2e categorie (Ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (Ban van 1 dag).^^**
 
-## **Artikel 39 - Illegale activiteiten op social media**
+## **Art. 39 - Illegale activiteiten op social media**
 
 Het plaatsen van illegale activiteiten (wapenhandel, drugs, en illegale locaties) op social media (m.u.v. Dark Web & Messages) is niet toegestaan. Ook het plaatsen van codewoorden die wel oproepen tot bovengenoemde activiteiten - zoals “Gezocht: Metaal” - is verboden.
 
 **^^Bij overtreding: Straf volgens de 3e categorie (ban van 2 dagen).^^**
 
-## **Artikel 40 - Regels bij het krijgen van hostages**
+## **Art. 40 - Regels bij het krijgen van hostages**
 
 Voor het verkrijgen van hostages worden de volgende regels gehanteerd:
 
@@ -610,9 +610,9 @@ Voor het verkrijgen van hostages worden de volgende regels gehanteerd:
 - Vanaf 5 aanwezige agenten mogen er ook agenten gegijzeld worden, mits er goede roleplay achter zit.
 - Een onderhandelaar mag niet worden beschoten of worden gegijzeld tijdens een onderhandeling.
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
-## **Artikel 41 - Criminele activiteiten tegen overheidsmedewerkers**
+## **Art. 41 - Criminele activiteiten tegen overheidsmedewerkers**
 
 Overheidsmedewerkers werken om de stad in veilig te houden en zijn er om alle burgers te helpen.
 
@@ -626,13 +626,13 @@ Regels omtrent gedrag tegen overheidsmedewerkers. Daarom zijn er regels omtrent 
 
 **^^Bij overtreding: Straf volgens de 3e categorie (ban van 2 dagen).^^**
 
-## **Artikel 42 - Bounty's/beloningen**
+## **Art. 42 - Bounty's/beloningen**
 
 Een bounty op iemand zetten is niet toegestaan. Wel is het toegestaan om een beloning op iemand te zetten om te ontvoeren, zodat jij desbetreffende persoon bijvoorbeeld kan verhoren.
 
-**^^Bij overtreding: Straf volgens de 2e categorie (ban van 8 uur).^^**
+**^^Bij overtreding: Straf volgens de 2e categorie (ban van 1 dag).^^**
 
-## **Artikel 43 - Het gebruik van een Wapen**
+## **Art. 43 - Het gebruik van een Wapen**
 
 - Het onnodig, willekeurig, of zonder controle schieten met een vuurwapen.
 - Het onnodig, willekeurig, of zonder controle steken/slaan met een slag/steek wapen.
